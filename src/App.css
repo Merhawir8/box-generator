@@ -1,0 +1,12 @@
+.mainContainer {
+  width: 65%;
+  height: 60%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.box_size {
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+}
